@@ -6,7 +6,7 @@ import Cart from "./pages/Cart";
 import Navbar from "./components/Navbar";
 import { Toaster } from "react-hot-toast";
 import Footer from "./components/Footer";
-import { useAppContext } from "./context/appContext";
+import { useAppContext } from "./context/AppContext";
 import Auth from "./modals/Auth";
 import ProductCategory from "./pages/ProductCategory";
 import Address from "./pages/Address";
