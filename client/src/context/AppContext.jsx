@@ -160,5 +160,5 @@ export const AppContextProvider = ({ children }) => {
 };
 
 export const useAppContext = () => {
-  return useContext(appContext);
+  return useContext(AppContext);
 };
